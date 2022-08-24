@@ -1,0 +1,5 @@
+
+@BASE_URL=http://localhost:5001
+
+
+GET  {{BASE_URL}}/deposit
